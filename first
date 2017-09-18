@@ -14,8 +14,13 @@ syntax: date
 
 4. echo
 It is used to display some message on terminal
-syntax: echo "Hello"
+syntax: echo "Hello
 
-5.uname
+5. ls
+It is used to display directory and files of given directory
+syntax:ls
+
+6.uname
 It is used to display operating system name
 syntax:uname
+
