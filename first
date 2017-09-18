@@ -11,3 +11,7 @@ syntax: cal month
 3.date
 It is used to display system date on the terminal
 syntax: date
+
+4. echo
+It is used to display some message on terminal
+syntax: echo "Hello"
