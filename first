@@ -3,3 +3,8 @@ This is file is containing comands used on bash terminal
 1. Man
 It is manual command. 
 syntax : man command_name
+
+2.Cal
+It shows calender of any specific month or year
+syntax: cal month
+
