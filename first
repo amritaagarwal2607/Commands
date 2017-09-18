@@ -27,3 +27,7 @@ syntax:uname
 7.who
 It is used to tell about the user
 syntax:who
+
+8. cd 
+display the file
+syntax: cd
