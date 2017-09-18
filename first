@@ -1,2 +1,5 @@
 Hello!!!!!
 This is file is containing comands used on bash terminal
+1. Man
+It is manual command. 
+syntax : man command_name
