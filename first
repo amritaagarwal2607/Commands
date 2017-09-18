@@ -29,5 +29,9 @@ It is used to tell about the user
 syntax:who
 
 8. cd 
-display the file
+It display the file
 syntax: cd
+
+9.pwd
+It is used to tell current directory
+syntax:pwd
