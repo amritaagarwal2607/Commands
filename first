@@ -8,3 +8,6 @@ syntax : man command_name
 It shows calender of any specific month or year
 syntax: cal month
 
+3.date
+It is used to display system date on the terminal
+syntax: date
