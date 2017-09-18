@@ -15,3 +15,7 @@ syntax: date
 4. echo
 It is used to display some message on terminal
 syntax: echo "Hello"
+
+5.uname
+It is used to display operating system name
+syntax:uname
