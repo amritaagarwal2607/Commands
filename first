@@ -24,3 +24,6 @@ syntax:ls
 It is used to display operating system name
 syntax:uname
 
+7.who
+It is used to tell about the user
+syntax:who
