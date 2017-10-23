@@ -35,3 +35,7 @@ syntax: cd
 9.pwd
 It is used to tell current directory
 syntax:pwd
+
+10.cat
+It is used to create new file
+syntax:cat>filename
