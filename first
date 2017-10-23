@@ -39,3 +39,7 @@ syntax:pwd
 10.cat
 It is used to create new file
 syntax:cat>filename
+
+11.mkdir
+It is used to make directory
+syntax:mkdir directoryname
